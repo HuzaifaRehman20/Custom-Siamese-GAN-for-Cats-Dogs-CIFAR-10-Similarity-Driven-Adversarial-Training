@@ -1,0 +1,13 @@
+Custom Siamese-GAN (Cats&Dogs CIFAR-10) — Results
+Timestamp: 2025-11-01T23:33:30.271109
+
+Mean RR = 0.6252
+Mean RF = 0.0136
+GAP (RR-RF) = 0.6115
+FID-like proxy (S-embeddings) = 0.2032
+
+Artifacts:
+- loss_history.png
+- cosine_hists.png
+- final_grid.png
+- nn_pairs.png
